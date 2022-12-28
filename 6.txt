@@ -1,7 +1,4 @@
 dsadad
-<<<<<<< HEAD
 b2b2b2b2
-=======
-b1b1bb1b1b1bb1b1b1
-b1b1bb1b1b1bb1b1b1
->>>>>>> master
+
+
